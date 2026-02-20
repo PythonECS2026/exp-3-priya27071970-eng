@@ -18,5 +18,5 @@ print(f"Basic Salary:    {fmt(basic)}")
 print(f"DA (70%):        {fmt(da)}")
 print(f"TA (30%):        {fmt(ta)}")
 print(f"HRA (10%):       {fmt(hra)}")
-print(f"Gross Salary:    {fmt(gross)}"
+print(f"Gross Salary:    {fmt(gross)}")
 # Write your code here
